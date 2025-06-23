@@ -1,0 +1,11 @@
+.color{
+    background-color: orange;
+
+}
+body p{
+    background-color: brown;
+    padding: 10px;
+    margin: 10px;
+    color: #000;
+    border-radius: 20px;
+}
